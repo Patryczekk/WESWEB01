@@ -1,0 +1,25 @@
+div{
+    font-family:fantasy;
+    width:33%;
+    height:400px;
+    overflow: scroll;
+}
+#box1{
+    font-family:fantasy;
+    background-color: aqua;
+    float: left;
+}    
+#box2{
+    font-family:cursive;
+    background-color: antiquewhite;
+    float:left;
+}    
+#box3{
+    font-family:monospace;
+    background-color: aquamarine;
+    float:left;
+}   
+h3{
+    background-color: azure;
+    clear:both;
+}
